@@ -108,6 +108,7 @@ int main()
             break;
 
             case 6:
+            cout<<"\nThank for using this ATM "<< endl;            
             exit(1);
             break;
 
